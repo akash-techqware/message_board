@@ -31,7 +31,10 @@ gem 'bootsnap', '>= 1.4.4', require: false
 gem 'simple_form', '~> 5.1'
 gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 
+
 gem 'jquery-rails'
+
+gem 'devise'
 
 
 group :development, :test do
